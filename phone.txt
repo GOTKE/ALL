@@ -1,7 +1,0 @@
-name : redmi
-version : 12.0
-ram : 6  gb
-version : 13.0
-hi
-yamuna
-version :10.0
